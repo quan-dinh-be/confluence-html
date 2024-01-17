@@ -1,0 +1,292 @@
+<div class="ak-editor-expand ak-editor-expand__type-expand ak-editor-expand__expanded" data-node-type="expand" data-title="">
+    <div class="ak-editor-expand__title-container" contenteditable="false" tabindex="-1">
+        <div class="ak-editor-expand__icon">
+            <div role="presentation" class="css-tvq6m2">
+                <button aria-expanded="true" class="ak-editor-expand__icon-container css-cwtapv" tabindex="0" type="button">
+                    <span class="css-bwxjrz">
+                        <span aria-hidden="true" class="css-snhnyn" style="--icon-primary-color: currentColor; --icon-secondary-color: var(--ds-surface, #ffffff);">
+                            <svg width="24" height="24" viewBox="0 0 24 24" role="presentation">
+                                <path
+                                    d="M10.294 9.698a.988.988 0 010-1.407 1.01 1.01 0 011.419 0l2.965 2.94a1.09 1.09 0 010 1.548l-2.955 2.93a1.01 1.01 0 01-1.42 0 .988.988 0 010-1.407l2.318-2.297-2.327-2.307z"
+                                    fill="currentColor"
+                                    fill-rule="evenodd"
+                                ></path>
+                            </svg>
+                        </span>
+                    </span>
+                </button>
+            </div>
+        </div>
+        <div class="ak-editor-expand__input-container"><input class="ak-editor-expand__title-input" value="" placeholder="Give this expand a title..." type="text" /></div>
+    </div>
+    <div class="ak-editor-expand__content">
+        <p>
+            <strong>Endpoint</strong>:
+            <span contenteditable="false" text="Post" color="green" localid="c0d5baea-a88d-4584-93f1-f24f3f7f9a37" style="bold" class="statusView-content-wrap inlineNodeView">
+                <span class="zeroWidthSpaceContainer"><span class="inlineNodeViewAddZeroWidthSpace"></span>​</span>
+                <span data-testid="statusContainerView" class="css-whh5e5">
+                    <span class="status-lozenge-span css-0" data-node-type="status" data-color="green" data-style="bold">
+                        <span class="css-pxii8w" style="max-width: 100%;"><span class="css-1et8jlg" style="max-width: calc(200px - var(--ds-space-100, 8px));">Post</span></span>
+                    </span>
+                </span>
+                <span class="inlineNodeViewAddZeroWidthSpace"></span>
+            </span>
+            /example/url
+        </p>
+        <p><strong>Authorization</strong>: yes/no</p>
+        <h3>Request:</h3>
+        <h4>Path Param:</h4>
+        <div class="tableView-content-wrap">
+            <div class="pm-table-container" data-number-column="false" data-layout="default" data-test-id="table-container" style="width: inherit;">
+                <div class="pm-table-sticky-sentinel-top" data-testid="sticky-sentinel-top" data-is-observed="true"></div>
+                <div class="pm-table-row-controls-wrapper"><div></div></div>
+                <div class="pm-table-with-left-shadow" style="visibility: hidden;"></div>
+                <div class="pm-table-wrapper">
+                    <table data-number-column="false" data-layout="default" data-autosize="false" data-table-local-id="ef2c80dd-0ba6-4767-904a-9a9e501e4885" data-table-width="760">
+                        <colgroup>
+                            <col style="width: 145.66666666666666px;" />
+                            <col style="width: 146.66666666666666px;" />
+                            <col style="width: 356.6666666666667px;" />
+                        </colgroup>
+                        <span class="pm-table-shadow-sentinel-right"></span>
+                        <span class="pm-table-shadow-sentinel-left"></span>
+                        <tbody>
+                            <tr data-header-row="true" data-is-observed="true" style="grid-template-columns: 145.66px 146.667px 356.667px; width: 622px;">
+                                <th data-colwidth="146" class="pm-table-header-content-wrap" id="979ac371-2bae-4511-b133-df92c6187754">
+                                    <p><strong>Field</strong></p>
+                                </th>
+                                <th data-colwidth="147" class="pm-table-header-content-wrap" id="7e0cceaa-1d9e-4d8a-8ed2-2a861917e386">
+                                    <p><strong>Type</strong></p>
+                                </th>
+                                <th data-colwidth="357" class="pm-table-header-content-wrap" id="2cdb99b8-43eb-495e-aef7-4c2960610ab4">
+                                    <p><strong>Description</strong></p>
+                                </th>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="146" class="pm-table-cell-content-wrap" id="4ec51037-2e2f-473d-9fb1-2207113ae29c">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="147" class="pm-table-cell-content-wrap" id="3b04e57c-8480-4acc-bf4c-7a38be70e451">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="357" class="pm-table-cell-content-wrap" id="947b24e8-0dfc-42a4-90f0-7e6aa0f4f8b7">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="146" class="pm-table-cell-content-wrap" id="c778547f-14a1-43a4-b0df-0f43cbdba64a">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="147" class="pm-table-cell-content-wrap" id="a8b1d14e-7fae-448d-9682-f3d9d2094302">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="357" class="pm-table-cell-content-wrap" id="148cf5a0-a13d-45c7-b407-fa64f6c71f68">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pm-table-with-right-shadow" style="visibility: visible;"></div>
+                <div class="pm-table-sticky-sentinel-bottom" data-testid="sticky-sentinel-bottom" data-is-observed="true" style="bottom: 66.9531px;"></div>
+            </div>
+        </div>
+        <h4>Query Param:</h4>
+        <div class="tableView-content-wrap">
+            <div class="pm-table-container" data-number-column="false" data-layout="default" data-test-id="table-container" style="width: inherit;">
+                <div class="pm-table-sticky-sentinel-top" data-testid="sticky-sentinel-top" data-is-observed="true"></div>
+                <div class="pm-table-row-controls-wrapper"><div></div></div>
+                <div class="pm-table-with-left-shadow" style="visibility: hidden;"></div>
+                <div class="pm-table-wrapper">
+                    <table data-number-column="false" data-layout="default" data-autosize="false" data-table-local-id="04ba15da-191e-4a6f-b100-d01209115749" data-table-width="760">
+                        <colgroup>
+                            <col style="width: 118.75px;" />
+                            <col style="width: 117.75px;" />
+                            <col style="width: 116.75px;" />
+                            <col style="width: 295.75px;" />
+                        </colgroup>
+                        <span class="pm-table-shadow-sentinel-right"></span>
+                        <span class="pm-table-shadow-sentinel-left"></span>
+                        <tbody>
+                            <tr data-header-row="true" data-is-observed="true" style="grid-template-columns: 118.75px 117.743px 116.745px 295.747px; width: 622px;">
+                                <th data-colwidth="119" class="pm-table-header-content-wrap" id="9f83d97d-5847-4da8-bd83-305e3dd17ddc">
+                                    <p><strong>Field</strong></p>
+                                </th>
+                                <th data-colwidth="118" class="pm-table-header-content-wrap" id="08bd808b-4cc7-4dec-8e29-83c12d1a44bd">
+                                    <p><strong>Type</strong></p>
+                                </th>
+                                <th data-colwidth="117" class="pm-table-header-content-wrap" id="de7ba8ce-3ff3-4f1e-9ca5-e240ab6ef747">
+                                    <p><strong>Required ?</strong></p>
+                                </th>
+                                <th data-colwidth="296" class="pm-table-header-content-wrap" id="4e224ee8-cb4e-4c19-b4cb-2583e39d7237">
+                                    <p><strong>Description</strong></p>
+                                </th>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="119" class="pm-table-cell-content-wrap" id="cf9a1765-93d1-4088-853b-567839b82a40">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="118" class="pm-table-cell-content-wrap" id="bd110930-d1e8-4c63-ab72-4eb559f60c97">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="117" class="pm-table-cell-content-wrap" id="b4f2e915-af6e-425d-a6f2-9fefdcb0f935">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="296" class="pm-table-cell-content-wrap" id="287a4b61-bb62-48dc-a129-f907e4953970">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="119" class="pm-table-cell-content-wrap" id="289ccb61-9f42-41df-8d63-80f30c687476">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="118" class="pm-table-cell-content-wrap" id="ddfc2df1-c1f4-40e2-ab9f-7862b74a9aa9">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="117" class="pm-table-cell-content-wrap" id="c59a886a-1404-4414-81c4-c6167bf7a3a6">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="296" class="pm-table-cell-content-wrap" id="c864eee9-f086-45d5-83d8-4e4440dfb69e">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pm-table-with-right-shadow" style="visibility: visible;"></div>
+                <div class="pm-table-sticky-sentinel-bottom" data-testid="sticky-sentinel-bottom" data-is-observed="true" style="bottom: 66.9531px;"></div>
+            </div>
+        </div>
+        <h4>Body:</h4>
+        <div class="tableView-content-wrap">
+            <div class="pm-table-container" data-number-column="false" data-layout="default" data-test-id="table-container" style="width: inherit;">
+                <div class="pm-table-sticky-sentinel-top" data-testid="sticky-sentinel-top" data-is-observed="true"></div>
+                <div class="pm-table-row-controls-wrapper"><div></div></div>
+                <div class="pm-table-with-left-shadow" style="visibility: hidden;"></div>
+                <div class="pm-table-wrapper">
+                    <table data-number-column="false" data-layout="default" data-autosize="false" data-table-local-id="d8733857-fe6f-4a69-b229-65290e04498f" data-table-width="760">
+                        <colgroup>
+                            <col style="width: 118.75px;" />
+                            <col style="width: 117.75px;" />
+                            <col style="width: 116.75px;" />
+                            <col style="width: 295.75px;" />
+                        </colgroup>
+                        <span class="pm-table-shadow-sentinel-right"></span>
+                        <span class="pm-table-shadow-sentinel-left"></span>
+                        <tbody>
+                            <tr data-header-row="true" data-is-observed="true" style="grid-template-columns: 118.75px 117.743px 116.745px 295.747px; width: 622px;">
+                                <th data-colwidth="119" class="pm-table-header-content-wrap" id="fa451a23-f74b-47f7-9c3e-44eff90c0508">
+                                    <p><strong>Field</strong></p>
+                                </th>
+                                <th data-colwidth="118" class="pm-table-header-content-wrap" id="9e5e76f8-a954-41a5-aad6-44f289313c58">
+                                    <p><strong>Type</strong></p>
+                                </th>
+                                <th data-colwidth="117" class="pm-table-header-content-wrap" id="a0467535-4d61-46d1-bc05-0bb98be6dfeb">
+                                    <p><strong>Required ?</strong></p>
+                                </th>
+                                <th data-colwidth="296" class="pm-table-header-content-wrap" id="2b8fb74d-6b56-4ec3-aa70-c5a878b0e875">
+                                    <p><strong>Description</strong></p>
+                                </th>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="119" class="pm-table-cell-content-wrap" id="bb8bf827-b231-484a-bb25-cf1041c66d89">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="118" class="pm-table-cell-content-wrap" id="ac0343c5-3cd0-4af9-bbf1-717b1749d3da">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="117" class="pm-table-cell-content-wrap" id="26ec373b-4a26-43ff-ba00-f961d4b9823d">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="296" class="pm-table-cell-content-wrap" id="fce8cd4e-42c8-4ef3-9557-31a4056cd80f">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="119" class="pm-table-cell-content-wrap" id="65fe70eb-d5d5-4235-9ff4-7cd4fd501a75">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="118" class="pm-table-cell-content-wrap" id="c87bfd10-3b77-44cb-9eab-6908fd5c8621">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="117" class="pm-table-cell-content-wrap" id="ae975caf-190d-4fb6-be7d-2908d36e3422">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="296" class="pm-table-cell-content-wrap" id="77392298-6ad3-4cb4-baaf-9e98afaf9059">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pm-table-with-right-shadow" style="visibility: visible;"></div>
+                <div class="pm-table-sticky-sentinel-bottom" data-testid="sticky-sentinel-bottom" data-is-observed="true" style="bottom: 66.9531px;"></div>
+            </div>
+        </div>
+        <h3>Response:</h3>
+        <div class="tableView-content-wrap">
+            <div class="pm-table-container" data-number-column="false" data-layout="default" data-test-id="table-container" style="width: inherit;">
+                <div class="pm-table-sticky-sentinel-top" data-testid="sticky-sentinel-top" data-is-observed="true"></div>
+                <div class="pm-table-row-controls-wrapper"><div></div></div>
+                <div class="pm-table-with-left-shadow" style="visibility: hidden;"></div>
+                <div class="pm-table-wrapper">
+                    <table data-number-column="false" data-layout="default" data-autosize="false" data-table-local-id="27c3c460-debd-4f60-b275-891a3a2d7ecd" data-table-width="760">
+                        <colgroup>
+                            <col style="width: 145.66666666666666px;" />
+                            <col style="width: 146.66666666666666px;" />
+                            <col style="width: 356.6666666666667px;" />
+                        </colgroup>
+                        <span class="pm-table-shadow-sentinel-right"></span>
+                        <span class="pm-table-shadow-sentinel-left"></span>
+                        <tbody>
+                            <tr data-header-row="true" data-is-observed="true" style="grid-template-columns: 145.66px 146.667px 356.667px; width: 622px;">
+                                <th data-colwidth="146" class="pm-table-header-content-wrap" id="75201033-ea35-47a4-9c00-7d806160f487">
+                                    <p><strong>Field</strong></p>
+                                </th>
+                                <th data-colwidth="147" class="pm-table-header-content-wrap" id="493876f7-e5cb-4fe2-afe6-eaee545de5d4">
+                                    <p><strong>Type</strong></p>
+                                </th>
+                                <th data-colwidth="357" class="pm-table-header-content-wrap" id="b674cc17-848d-40d3-af7f-c652d84b40ba">
+                                    <p><strong>Description</strong></p>
+                                </th>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="146" class="pm-table-cell-content-wrap" id="6af9e8cc-050a-41fc-9a10-7de2cdc8e733">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="147" class="pm-table-cell-content-wrap" id="f2df6089-1281-4cd5-8088-c0a78b90e8eb">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="357" class="pm-table-cell-content-wrap" id="e590ee44-bdfc-4836-95a2-29b9f89fe569">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td data-colwidth="146" class="pm-table-cell-content-wrap" id="6c66c7d1-c97a-47f6-b6ac-f13fc5a15b22">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="147" class="pm-table-cell-content-wrap" id="90c2a0c5-a097-4816-ac7b-eb92bfbc2c28">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                                <td data-colwidth="357" class="pm-table-cell-content-wrap" id="64817ee4-1e45-4dbc-981d-b837570a0e74">
+                                    <p><br class="ProseMirror-trailingBreak" /></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="pm-table-with-right-shadow" style="visibility: visible;"></div>
+                <div class="pm-table-sticky-sentinel-bottom" data-testid="sticky-sentinel-bottom" data-is-observed="true" style="bottom: 66.9531px;"></div>
+            </div>
+        </div>
+        <h4>Example:</h4>
+        <div class="code-block">
+            <div class="code-block--start" contenteditable="false"></div>
+            <div class="code-block-content-wrapper">
+                <div class="line-number-gutter" contenteditable="false"><span></span><span></span><span></span></div>
+                <div class="code-content"><code data-language="" spellcheck="false" contenteditable="true" data-testid="code-block--code">{\n "example": "value"\n}</code></div>
+            </div>
+            <div class="code-block--end" contenteditable="false"></div>
+        </div>
+    </div>
+</div>
